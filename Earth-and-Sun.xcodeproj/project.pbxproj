@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9217E1C62B28FEFF00B0A20E /* Fowles_Ch6.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 9217E1C52B28FEFF00B0A20E /* Fowles_Ch6.pdf */; };
 		92785D452B227DF40070923A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92785D442B227DF40070923A /* AppDelegate.swift */; };
 		92785D472B227DF40070923A /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 92785D462B227DF40070923A /* GameScene.sks */; };
 		92785D492B227DF40070923A /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = 92785D482B227DF40070923A /* Actions.sks */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9217E1C52B28FEFF00B0A20E /* Fowles_Ch6.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Fowles_Ch6.pdf; sourceTree = "<group>"; };
 		92785D412B227DF40070923A /* Earth-and-Sun.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Earth-and-Sun.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		92785D442B227DF40070923A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		92785D462B227DF40070923A /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				92785D4E2B227DF70070923A /* Assets.xcassets */,
 				92785D502B227DF70070923A /* Main.storyboard */,
 				92785D532B227DF70070923A /* Earth_and_Sun.entitlements */,
+				9217E1C52B28FEFF00B0A20E /* Fowles_Ch6.pdf */,
 			);
 			path = "Earth-and-Sun";
 			sourceTree = "<group>";
@@ -128,6 +131,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9217E1C62B28FEFF00B0A20E /* Fowles_Ch6.pdf in Resources */,
 				92785D472B227DF40070923A /* GameScene.sks in Resources */,
 				92785D4F2B227DF70070923A /* Assets.xcassets in Resources */,
 				92785D492B227DF40070923A /* Actions.sks in Resources */,
